@@ -1,0 +1,36 @@
+div.state {
+    margin: 70px;
+    height: 500px;
+    border: 3px solid rgb(61, 36, 20);
+    margin-left: 100px;
+    margin-right: 100px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+div.area {
+    width: 44%;
+    height: 100%;
+    float: left;
+    padding-left: 70px;
+    padding-right: 70px;
+    margin-top: 30px;
+}
+
+div.area h1 {
+    width: 100%;
+    text-align: center;
+    color: rgb(61, 36, 20);
+    font-family: "Raleway Semi Bold", sans-serif;
+}
+
+div.image {
+    width: 45.35%;
+    height: 100%;
+    float: left;
+    background-color: aqua;
+}
+
+div.image img {
+    width: 100%;
+    height: 100%;
+}
